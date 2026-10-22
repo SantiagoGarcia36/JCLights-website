@@ -1,0 +1,6 @@
+.venv/
+.vscode/
+__pycache__/
+
+database/leads.db
+leads_report.xlsx
